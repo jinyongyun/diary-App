@@ -56,3 +56,12 @@ public protocol UICollectionViewDataSource : NSObjectProtocol {
  ## UICollectionViewDelegate
  콘텐의 표현, 사용자와의 상호작용과 관련된 것들을 관리하는 객체, dataSource와 다르게 delegate는 필수로 구현하지 않아도 된다.
  
+ ### 
+![스크린샷 2022-07-03 오전 10 29 56](https://user-images.githubusercontent.com/102133961/177020934-1d3bfcb2-11ac-40c7-be45-e93996e23559.jpg)
+![스크린샷 2022-07-03 오전 10 30 39](https://user-images.githubusercontent.com/102133961/177020954-f6933bb3-8276-45ac-96a8-a77da49debf9.jpg)
+![스크린샷 2022-07-03 오전 10 41 12](https://user-images.githubusercontent.com/102133961/177021146-5b700203-b752-4308-b72e-655fcd2e24ed.jpg)
+![스크린샷 2022-07-03 오전 10 41 28](https://user-images.githubusercontent.com/102133961/177021153-2dac3ed7-de90-4e67-84b4-f8a07339b018.jpg)
+![스크린샷 2022-07-03 오전 10 41 54](https://user-images.githubusercontent.com/102133961/177021158-83eef0e2-d35c-44d4-9126-850d638b1d77.jpg)
+
+
+
